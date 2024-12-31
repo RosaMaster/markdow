@@ -5,7 +5,7 @@
 <!-- TITLE -->
 <h2 align="center" alt="title">
 
-    <head>    M  A  R  K  D  O  W  N    </head>
+    <head>       M   A   R   K   D   O   W   N       </head>
 
 </h2>
 
