@@ -36,6 +36,11 @@ Markdown é uma linguagem de marcação simples originalmente criada por John Gr
 >> <https://github.com/iuricode/padroes-de-commits/>
 
 
+<!--Frase-->
+> "Aqui no entanto nós não olhamos para trás por muito tempo, Nós continuamos seguindo em frente, abrindo novas portas e fazendo coisas novas, Porque somos curiosos...e a curiosidade continua nos conduzindo por novos caminhos. Siga em frente."
+> Walt Disney
+
+
 ## Comandos
 
 &#128311; [bloco de notas](./markdown/bloco_de_notas.ipynb)<br>
